@@ -9,3 +9,6 @@ class TestClass:
     def test_two(self):
         x = "hello"
         assert x == "hi"
+
+if __name__ == '__main__':
+    pass
